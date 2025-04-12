@@ -1,2 +1,2 @@
 # DataStructuresQuestions
-Resolution of data structures questions
+Resolution of data structures questions from http://tst-eda.splab.ufcg.edu.br/#!/app/home
